@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/85d8088f419078b5efe45c2ddfe32827519e04e0d1a014c577279f95fbba525a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966)
 <h1 align="center">Hi 👋, I'm KUNDAN KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/wLNuW1tCKRiPmDV5Y4.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundanbabu123&label=Profile%20views&color=0e75b6&style=flat" alt="kundanbabu123" /> </p>
 
